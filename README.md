@@ -37,7 +37,7 @@ Python, pandas, matplotlib, seaborn, scikit-learn
 ## 🚀 How to Run
 ```bash
 # 1. Clone the repository
-git clone https://github.com/<your-username>/student-performance-analysis.git
+git clone https://github.com/prasantkumar91379-alt/student-performance-analysis.git
 cd student-performance-analysis
 
 # 2. (Optional) create a virtual environment
